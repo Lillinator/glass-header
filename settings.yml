@@ -6,6 +6,6 @@ header_color:
       
 header_transparency:
   type: string
-  default: ""
+  default: "1.0"
   description: 
     en: "Transparency in percentage decimal - ie: 0.5 = 50%, 0.35 = 35%."
