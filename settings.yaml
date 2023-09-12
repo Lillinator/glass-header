@@ -1,4 +1,4 @@
-header_bgcolor:
+color:
   type: string
   default: ""
   description: 
