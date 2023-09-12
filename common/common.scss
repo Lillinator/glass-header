@@ -1,6 +1,3 @@
 .d-header {
-    background: rgba($color, 0.40);
-    .d-header-icons .d-icon  {
-        color: white;
-    }
+    background: rgba($header_color, $transparency);
 }
