@@ -1,6 +1,6 @@
 header_background_color:
   type: string
-  default: "#454545"
+  default: ""
   description:
     en: "Header background color in hexadecimal, css color name, rgb comma separated values, or theme variables."
 
