@@ -6,7 +6,7 @@ header_background_color:
 
 transparency:
   type: string
-  default: "50"
+  default: "0.5"
   description:
     en: "Transparency percentage (ie: 50 = 50%, 30 = 30%)."
 
