@@ -1,0 +1,8 @@
+{
+  "name": "Discourse Glass Header",
+  "component": true,
+  "about_url": "https://github.com/Lillinator/glass-header/blob/main/README.md",
+  "license_url": "https://github.com/Lillinator/glass-header/blob/main/LICENSE",
+  "authors": "@Lillinator, @denvergeeks",
+  "theme_version": "1.1"
+}
