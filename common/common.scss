@@ -1,5 +1,5 @@
 .d-header {
-  background: rgb($header_background_color, 0.$transparency) !important;
+  background: rgb($header_background_color, $transparency) !important;
   -webkit-backdrop-filter: blur(10px) !important;
   -moz-backdrop-filter: blur(10px) !important;
   backdrop-filter: blur(10px) !important;
