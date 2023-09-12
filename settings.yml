@@ -3,9 +3,3 @@ header_color:
   default: ""
   description: 
     en: "Header background color in hexadecimal, css color name or Discourse color variable. Leave blank to use current default."
-  
-transparency:
-  type: string
-  default: ""
-  description: 
-    en: "Transparency in percentage decimal - ie: 0.5 = 50%, 0.35 = 35%."
