@@ -4,7 +4,7 @@ header_color:
   description: 
     en: "Header background color in hexadecimal, css color name or Discourse color variable. Leave blank to use current default."
       
-transparency:
+header_transparency:
   type: string
   default: ""
   description: 
