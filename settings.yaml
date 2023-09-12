@@ -1,17 +1,17 @@
 header_background_color:
   type: string
-  default: "139, 0, 139"
+  default: ""
   description:
     en: "Header background color in hexadecimal, css color name, rgb comma separated values, or theme variables."
 
 transparency:
   type: string
-  default: "0.5"
+  default: ""
   description:
     en: "Transparency percentage (ie: 50 = 50%, 30 = 30%)."
 
 icon_color:
   type: string
-  default: silver
+  default: ""
   description:
     en: "Color of header icons in hexadecimal, css color name, rgb comma separated values, or theme variables. Leave blank for existing default."
