@@ -1,4 +1,4 @@
-header_background_color:
+header_glass_color:
   type: string
   default: ""
   description:
