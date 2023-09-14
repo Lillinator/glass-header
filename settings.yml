@@ -1,6 +1,6 @@
 header_color:
   type: string
-  default: "134, 0, 179"
+  default: "77, 0, 153"
   description: "RGB color code for glass header, for example: 47, 79, 79. See https://www.w3schools.com/colors/colors_picker.asp for RGB color picker."
   
 transparency:
@@ -13,4 +13,4 @@ transparency:
 header_icons_color:
   type: string
   default: ""
-  description: "RGB color code for header icons, for example: 47, 79, 79."
+  description: "RGB color code for header icons, for example: 255, 255, 255."
