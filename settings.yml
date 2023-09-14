@@ -1,6 +1,6 @@
 header_color:
   type: string
-  default: "0, 0, 139"
+  default: "255, 255, 255"
   description: "RGB color code for glass header, for example: 47, 79, 79."
 transparency:
   type: float
