@@ -10,5 +10,5 @@ transparency:
   description: "Transparency percent as a decimal of 1, for example: 0.8 = 80%, 0.35 = 35%."
 header_icons_color:
   type: string
-  default: "0, 0, 0"
+  default: ""
   description: "RGB color code for header icons, for example: 47, 79, 79."
